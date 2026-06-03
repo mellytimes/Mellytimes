@@ -23,7 +23,7 @@
 - 🔧 Homelab gremlin running **Proxmox VE** with LXC containers because bare metal is never enough
 - 🤖 Built a Discord bot to manage Proxmox remotely — because why SSH when you can `/restart`
 - 📡 Battling **CGNAT** with DDNS & tunnels so friends can actually connect to my servers
-- ⛏️ Hosting a **Minecraft server** (currently surviving FTB OceanBlock 2)
+- ⛏️ Hosting a **Minecraft server**
 
 ---
 
