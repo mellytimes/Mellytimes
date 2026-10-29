@@ -7,3 +7,4 @@ Aspiring software / fullstack engineer.
 - Mostly Python, JavaScript/TypeScript, Java, C/C++
  
 ---
+<a href="https://discord.com/users/848402218351591445"><img src="https://lanyard.cnrad.dev/api/848402218351591445?showDisplayName=true&theme=dark&borderRadius=10px&bg=262892&idleMessage=blah%20blah%20blah%20aim%20blah%20blah%20blah" /></a>
